@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1686130178 source:d:\proyectos\primer programa\start.c
+	<stdio.h>
+	<stdlib.h>
+
+1686128932 source:d:\proyectos\primer programa\variables.c
+	<stdio.h>
+	<stdlib.h>
+
+1686129461 source:d:\proyectos\primer programa\showinformation.c
+	<stdio.h>
+	<stdlib.h>
+
+1686129913 source:d:\proyectos\primer programa\numbers.c
+	<stdio.h>
+	<stdlib.h>
+
